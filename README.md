@@ -100,5 +100,5 @@ selected_features = ['bit_114',
 #### 5. Training various machine learning models, including RandomForestClassifier, DecisionTreeClassifier, XGBoost, LightGBM, GradientBoostingClassifier, and MLPClassifier.
 #### 6. Evaluating the performance of the models using various metrics, such as accuracy, confusion matrix, classification report, and F1 score.   
 
-###Link for the Online competition:
+### Link for the Online competition:
 https://www.kaggle.com/competitions/the-toxicity-prediction-challenge-ii
